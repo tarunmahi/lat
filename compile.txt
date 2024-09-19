@@ -1,0 +1,1 @@
+gcc latex_editor_win32.c -o latex_editor_win32 -lgdi32 -lcomdlg32
